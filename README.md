@@ -5,7 +5,6 @@
 [![Produto](https://img.shields.io/badge/Produto-ATHENA%20Engine-5A3EBE?style=for-the-badge&logo=ai&logoColor=white&labelColor=333333)](https://www.linkedin.com/in/itilmgf/)
 [![Tipo de Solução](https://img.shields.io/badge/Servi%C3%A7o-Credit%20%26%20Risk%20Analytics-5A3EBE?style=for-the-badge&logo=security&logoColor=white&labelColor=333333)](https://www.linkedin.com/in/itilmgf/)
 [![Metodologia](https://img.shields.io/badge/Metodologia-REVOPS%20Analytics-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white&labelColor=333333)](https://www.linkedin.com/in/itilmgf/)
-[![Score M%C3%A9dio da Pipeline](https://img.shields.io/badge/Pipeline%20Score%20M%C3%A9dio-67-FFD700?style=for-the-badge&logo=target&logoColor=333333&labelColor=4B8BBE)](https://www.linkedin.com/in/itilmgf/)
 
 ---
 
